@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(222, 244, 245);
+    margin-left: 5px;
+}
+img{
+    margin-top: 5px;
+    border-radius: 50%;
+}    
+hr{
+    border: 5px dotted rgb(130, 206, 236);
+    border-style: dotted none none;
+    border-color: rgb(93, 186, 214);
+    width: 5%;
+    height: 0px;
+    }
+
+h1{
+    color: #2939c5;
+    margin-left: 5px;
+}    
+h2{
+    color: #6461dd;
+    margin-left: 5px;
+}
+h3{
+    color: #6461dd;
+    margin-left: 5px;
+}
+p{
+    margin-left: 6px;;
+}
